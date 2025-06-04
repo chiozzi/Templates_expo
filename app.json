@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "53b0950f-c518-404a-a64c-c9f2ef17f84a"
+      }
+    },
+    "owner": "chiozzi"
   }
 }
